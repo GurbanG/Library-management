@@ -1,0 +1,12 @@
+#ifndef LIBRARY_SYSTEM_USERTYPE_H
+#define LIBRARY_SYSTEM_USERTYPE_H
+
+
+enum UserType {
+    ADMIN,
+    READER,
+    AUTHOR
+};
+
+
+#endif //LIBRARY_SYSTEM_USERTYPE_H
